@@ -39,6 +39,10 @@
 
 <p align="center">
   <img src="https://github.com/testbytes-igor/testbytes-igor/raw/output/pacman-contribution-graph.svg" alt="Pac-Man no gráfico de contribuições">
+  body {
+  background-color: black;
+}
+
 </p>
 
 ---
